@@ -15,9 +15,6 @@ runs:
   using: composite
   steps:
     - id: update-podcasts
-      env:
-        POCKETCASTS_EMAIL: ${{ secrets.POCKETCASTS_EMAIL}}
-        POCKETCASTS_PASSWORD: ${{ secrets.POCKETCASTS_PASSWORD}}
       run: go run main.go -email=$POCKETCASTS_EMAIL -password=$POCKETCASTS_PASSWORD
       shell: bash
 
