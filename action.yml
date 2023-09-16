@@ -14,7 +14,11 @@ inputs:
 runs:
   using: composite
   steps:
-    - id: update-podcasts
+    - name: Update podcasts
+      env:
+        POCKETCASTS_EMAIL: ${{ secrets.POCKETCASTS_EMAIL }}
+        POCKETCASTS_PASSWORD: ${{ secrets.POCKETCASTS_PASSWORD }}
+      id: update-podcasts
       run: go run main.go
       shell: bash
 
