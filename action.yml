@@ -1,0 +1,20 @@
+name: pocketcasts-readme
+description: Updates your README with recently listened podcasts from pocketcasts.
+inputs:
+  pocketcasts-email:
+    description: Pocketcasts Email Address
+    required: true
+  pocketcasts-password:
+    description: Pocketcasts password
+    required: true
+outputs:
+  content:
+    description: List of updated podcasts
+    value: ${{ steps.update-podcasts.outputs }}
+
+runs:
+  using: composite
+  steps:
+    - id: update-podcasts
+      run: go run main.go
+      shell: bash
