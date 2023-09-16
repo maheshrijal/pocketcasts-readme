@@ -11,7 +11,7 @@ jobs:
 
         steps:
             - uses: actions/checkout@v3
-            - uses: maheshrjl/pocketcasts-readme@main
+            - uses: maheshrjl/pocketcasts-readme@v1
               with:
                   POCKETCASTS_EMAIL: ${{ secrets.POCKETCASTS_EMAIL }}
                   POCKETCASTS_PASSWORD: ${{ secrets.POCKETCASTS_PASSWORD }}
