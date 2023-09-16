@@ -1,20 +1,26 @@
 name: pocketcasts-readme
+author: Mahesh Rijal
 description: Updates your README with recently listened podcasts from pocketcasts.
+
 inputs:
-  pocketcasts-email:
+  POCKETCASTS_EMAIL:
     description: Pocketcasts Email Address
     required: true
-  pocketcasts-password:
+
+  POCKETCASTS_PASSWORD:
     description: Pocketcasts password
     required: true
-outputs:
-  content:
-    description: List of updated podcasts
-    value: ${{ steps.update-podcasts.outputs }}
 
 runs:
   using: composite
   steps:
     - id: update-podcasts
-      run: go run main.go
+      env:
+        POCKETCASTS_EMAIL: ${{ secrets.POCKETCASTS_EMAIL}}
+        POCKETCASTS_PASSWORD: ${{ secrets.POCKETCASTS_PASSWORD}}
+      run: go run main.go -email=$POCKETCASTS_EMAIL -password=$POCKETCASTS_PASSWORD
       shell: bash
+
+branding:
+  icon: headphones
+  color: blue
