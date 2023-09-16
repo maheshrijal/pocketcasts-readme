@@ -3,7 +3,6 @@ package main
 import (
 	"bytes"
 	"encoding/json"
-	"flag"
 	"fmt"
 	"io"
 	"log"
@@ -52,7 +51,6 @@ func main() {
 
 	if email == "" || password == "" {
 		fmt.Println("Email & Password are mandatory!")
-		flag.PrintDefaults()
 		return
 	}
 
