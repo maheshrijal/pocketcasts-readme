@@ -43,24 +43,25 @@ type Data struct {
 }
 
 func main() {
-	emailFlag := flag.String("email", "", "Pocket Casts login email")
-	passwordFlag := flag.String("password", "", "Pocket Casts login password")
-	flag.Parse()
+
+	//Reading username & password
+	email := os.Getenv("POCKETCASTS_EMAIL")
+	password := os.Getenv("POCKETCASTS_PASSWORD")
 
 	emailRegex := `^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$`
 
-	if *emailFlag == "" || *passwordFlag == "" {
+	if email == "" || password == "" {
 		fmt.Println("Email & Password are mandatory!")
 		flag.PrintDefaults()
 		return
 	}
 
-	if !isValidEmail(*emailFlag, emailRegex) {
+	if !isValidEmail(email, emailRegex) {
 		fmt.Println("Invalid email format.")
 		return
 	}
 
-	token, err := authenticate(*emailFlag, *passwordFlag)
+	token, err := authenticate(email, password)
 	if err != nil {
 		log.Fatalf("Authentication error: %s", err)
 		return
