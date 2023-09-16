@@ -20,7 +20,7 @@ runs:
         POCKETCASTS_PASSWORD: ${{ secrets.POCKETCASTS_PASSWORD }}
       id: update-podcasts
       run: go run main.go
-      shell: bash
+      shell: go
 
 branding:
   icon: headphones
