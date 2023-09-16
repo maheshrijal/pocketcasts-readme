@@ -15,7 +15,7 @@ runs:
   using: composite
   steps:
     - id: update-podcasts
-      run: go run main.go -email=$POCKETCASTS_EMAIL -password=$POCKETCASTS_PASSWORD
+      run: go run main.go
       shell: bash
 
 branding:
