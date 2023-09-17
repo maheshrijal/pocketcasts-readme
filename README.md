@@ -5,15 +5,15 @@ Updates README with recently listened podcasts from Pocketcasts
 
 ## Recently Listened Podcasts
 <!-- PODCAST-LIST:START -->
-The Changelog: Software Development, Open Source: [OpenTF sticks a fork in Terraform](https://op3.dev/e/https://cdn.changelog.com/uploads/news/59/changelog-news-59.mp3)
+Lex Fridman Podcast: [#360 – Tim Urban: Tribalism, Marxism, Liberalism, Social Justice, and Politics](https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_tim_urban_2.mp3)
 
 The Knowledge Project with Shane Parrish: [#127 Best of 2021: Conversations of the Year](https://traffic.libsyn.com/secure/theknowledgeproject/Episode_127_-_Best_of_2021.mp3?dest-id=271299)
+
+The Changelog: Software Development, Open Source: [OpenTF sticks a fork in Terraform](https://op3.dev/e/https://cdn.changelog.com/uploads/news/59/changelog-news-59.mp3)
 
 The Knowledge Project with Shane Parrish: [#167 Dr. Gina Poe: The Science of Better Sleep](https://traffic.libsyn.com/secure/theknowledgeproject/167_Gina_Poe.mp3?dest-id=271299)
 
 The Knowledge Project with Shane Parrish: [#152 Tobi Lütke: Calm Progress](https://traffic.libsyn.com/secure/theknowledgeproject/152_Tobi_Lutke.mp3?dest-id=271299)
-
-Unexplainable: [Holding on to power](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP2092320771.mp3?updated=1667947232)
 
 
 <!-- PODCAST-LIST:END -->
@@ -35,15 +35,15 @@ Add a comment to your README.md like this:
 # # Recently Listened Podcasts
 
 <!-- PODCAST-LIST:START -->
-The Changelog: Software Development, Open Source: [OpenTF sticks a fork in Terraform](https://op3.dev/e/https://cdn.changelog.com/uploads/news/59/changelog-news-59.mp3)
+Lex Fridman Podcast: [#360 – Tim Urban: Tribalism, Marxism, Liberalism, Social Justice, and Politics](https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_tim_urban_2.mp3)
 
 The Knowledge Project with Shane Parrish: [#127 Best of 2021: Conversations of the Year](https://traffic.libsyn.com/secure/theknowledgeproject/Episode_127_-_Best_of_2021.mp3?dest-id=271299)
+
+The Changelog: Software Development, Open Source: [OpenTF sticks a fork in Terraform](https://op3.dev/e/https://cdn.changelog.com/uploads/news/59/changelog-news-59.mp3)
 
 The Knowledge Project with Shane Parrish: [#167 Dr. Gina Poe: The Science of Better Sleep](https://traffic.libsyn.com/secure/theknowledgeproject/167_Gina_Poe.mp3?dest-id=271299)
 
 The Knowledge Project with Shane Parrish: [#152 Tobi Lütke: Calm Progress](https://traffic.libsyn.com/secure/theknowledgeproject/152_Tobi_Lutke.mp3?dest-id=271299)
-
-Unexplainable: [Holding on to power](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP2092320771.mp3?updated=1667947232)
 
 
 <!-- PODCAST-LIST:END -->
