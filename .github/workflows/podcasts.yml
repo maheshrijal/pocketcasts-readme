@@ -1,6 +1,9 @@
 name: Update pods
 on:
     workflow_dispatch:
+    schedule:
+    # Runs every 8 hours
+    - cron: "0 */8 * * *"
 
 permissions:
     contents: write
@@ -13,10 +16,9 @@ jobs:
             - name: Checkout Code
               uses: actions/checkout@v3
             - name: Update README
-              uses: maheshrjl/pocketcasts-readme@main
+              uses: maheshrjl/pocketcasts-readme@v1
               with:
                   POCKETCASTS_EMAIL: ${{ secrets.POCKETCASTS_EMAIL }}
                   POCKETCASTS_PASSWORD: ${{ secrets.POCKETCASTS_PASSWORD }}
             - name: Push Changes
               uses: stefanzweifel/git-auto-commit-action@v4
-                  
