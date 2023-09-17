@@ -10,8 +10,13 @@ jobs:
         runs-on: ubuntu-latest
 
         steps:
-            - uses: actions/checkout@v3
-            - uses: maheshrjl/pocketcasts-readme@main
+            - name: Checkout Code
+              uses: actions/checkout@v3
+            - name: Update README
+              uses: maheshrjl/pocketcasts-readme@main
               with:
                   POCKETCASTS_EMAIL: ${{ secrets.POCKETCASTS_EMAIL }}
                   POCKETCASTS_PASSWORD: ${{ secrets.POCKETCASTS_PASSWORD }}
+            - name: Push Changes
+              uses: stefanzweifel/git-auto-commit-action@v4
+                  
