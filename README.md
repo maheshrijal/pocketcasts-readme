@@ -5,15 +5,15 @@ Updates README with recently listened podcasts from Pocketcasts
 
 ## Recently Listened Podcasts
 <!-- PODCAST-LIST:START -->
+The Changelog: Software Development, Open Source: [OpenTF sticks a fork in Terraform](https://op3.dev/e/https://cdn.changelog.com/uploads/news/59/changelog-news-59.mp3)
+
+The Knowledge Project with Shane Parrish: [#127 Best of 2021: Conversations of the Year](https://traffic.libsyn.com/secure/theknowledgeproject/Episode_127_-_Best_of_2021.mp3?dest-id=271299)
+
+The Knowledge Project with Shane Parrish: [#167 Dr. Gina Poe: The Science of Better Sleep](https://traffic.libsyn.com/secure/theknowledgeproject/167_Gina_Poe.mp3?dest-id=271299)
+
 The Knowledge Project with Shane Parrish: [#152 Tobi Lütke: Calm Progress](https://traffic.libsyn.com/secure/theknowledgeproject/152_Tobi_Lutke.mp3?dest-id=271299)
 
 Unexplainable: [Holding on to power](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP2092320771.mp3?updated=1667947232)
-
-Huberman Lab: [Controlling Your Dopamine For Motivation, Focus & Satisfaction](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/3F7F74/traffic.megaphone.fm/SCIM6449668176.mp3?updated=1687619103)
-
-WSJ’s The Future of Everything: [Navigating The Future of Maps](https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ6333562003.mp3?updated=1671815114)
-
-Unexplainable: [Origins: The first living thing](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP5597083531.mp3?updated=1678822191)
 
 
 <!-- PODCAST-LIST:END -->
@@ -35,15 +35,15 @@ Add a comment to your README.md like this:
 # # Recently Listened Podcasts
 
 <!-- PODCAST-LIST:START -->
+The Changelog: Software Development, Open Source: [OpenTF sticks a fork in Terraform](https://op3.dev/e/https://cdn.changelog.com/uploads/news/59/changelog-news-59.mp3)
+
+The Knowledge Project with Shane Parrish: [#127 Best of 2021: Conversations of the Year](https://traffic.libsyn.com/secure/theknowledgeproject/Episode_127_-_Best_of_2021.mp3?dest-id=271299)
+
+The Knowledge Project with Shane Parrish: [#167 Dr. Gina Poe: The Science of Better Sleep](https://traffic.libsyn.com/secure/theknowledgeproject/167_Gina_Poe.mp3?dest-id=271299)
+
 The Knowledge Project with Shane Parrish: [#152 Tobi Lütke: Calm Progress](https://traffic.libsyn.com/secure/theknowledgeproject/152_Tobi_Lutke.mp3?dest-id=271299)
 
 Unexplainable: [Holding on to power](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP2092320771.mp3?updated=1667947232)
-
-Huberman Lab: [Controlling Your Dopamine For Motivation, Focus & Satisfaction](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/3F7F74/traffic.megaphone.fm/SCIM6449668176.mp3?updated=1687619103)
-
-WSJ’s The Future of Everything: [Navigating The Future of Maps](https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ6333562003.mp3?updated=1671815114)
-
-Unexplainable: [Origins: The first living thing](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP5597083531.mp3?updated=1678822191)
 
 
 <!-- PODCAST-LIST:END -->
