@@ -18,15 +18,15 @@ Add a comment to your README.md like this:
 # # Recently Listened Podcasts
 
 <!-- PODCAST-LIST:START -->
+The Knowledge Project with Shane Parrish: [#127 Best of 2021: Conversations of the Year](https://traffic.libsyn.com/secure/theknowledgeproject/Episode_127_-_Best_of_2021.mp3?dest-id=271299)
+
+Lex Fridman Podcast: [#396 – James Sexton: Divorce Lawyer on Marriage, Relationships, Sex, Lies & Love](https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_james_sexton.mp3)
+
 Lex Fridman Podcast: [#360 – Tim Urban: Tribalism, Marxism, Liberalism, Social Justice, and Politics](https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_tim_urban_2.mp3)
 
+Finshots Daily: [An explainer on Off-Budget Borrowings](https://anchor.fm/s/37a76020/podcast/play/76160239/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-20%2F33a65ef6-ee3d-4247-9f0f-22c1d67ebac3.mp3)
+
 The Changelog: Software Development, Open Source: [What do we want from a web browser?](https://op3.dev/e/https://cdn.changelog.com/uploads/friends/14/changelog--friends-14.mp3)
-
-Finshots Daily: [How brands can reverse nature loss](https://anchor.fm/s/37a76020/podcast/play/76126906/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-20%2F0599e8ec-1536-54b9-3ded-e5d2ecaf125d.mp3)
-
-Finshots Daily: [CCI is getting a makeover. But…](https://anchor.fm/s/37a76020/podcast/play/76078578/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-19%2F347599582-44100-2-4b488e81f8016.m4a)
-
-The Changelog: Software Development, Open Source: [Death by a thousand microservices](https://op3.dev/e/https://cdn.changelog.com/uploads/news/62/changelog-news-62.mp3)
 
 
 <!-- PODCAST-LIST:END -->
