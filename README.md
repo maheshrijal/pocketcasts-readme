@@ -20,13 +20,13 @@ Add a comment to your README.md like this:
 <!-- PODCAST-LIST:START -->
 Capitalmind Podcast: [How to invest a lumpsum amount?](https://traffic.libsyn.com/secure/capitalmind/CM_Podcast_EP_68_0816.mp3?dest-id=1084508)
 
+The Knowledge Project with Shane Parrish: [#127 Best of 2021: Conversations of the Year](https://traffic.libsyn.com/secure/theknowledgeproject/Episode_127_-_Best_of_2021.mp3?dest-id=271299)
+
+Finshots Daily: [Why do creditors misuse the Insolvency Code?](https://anchor.fm/s/37a76020/podcast/play/76319379/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-24%2Fb30d0670-91be-613a-61de-9ca4e710c100.mp3)
+
 Lex Fridman Podcast: [#396 – James Sexton: Divorce Lawyer on Marriage, Relationships, Sex, Lies & Love](https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_james_sexton.mp3)
 
 Finshots Daily: [India wants a bigger bite of the MICE tourism pie](https://anchor.fm/s/37a76020/podcast/play/76219934/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-22%2Fd804103f-879b-5cc8-7f88-251ed61289de.mp3)
-
-The Knowledge Project with Shane Parrish: [#127 Best of 2021: Conversations of the Year](https://traffic.libsyn.com/secure/theknowledgeproject/Episode_127_-_Best_of_2021.mp3?dest-id=271299)
-
-Lex Fridman Podcast: [#360 – Tim Urban: Tribalism, Marxism, Liberalism, Social Justice, and Politics](https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_tim_urban_2.mp3)
 
 
 <!-- PODCAST-LIST:END -->
