@@ -18,15 +18,15 @@ Add a comment to your README.md like this:
 # # Recently Listened Podcasts
 
 <!-- PODCAST-LIST:START -->
+Lex Fridman Podcast: [#396 – James Sexton: Divorce Lawyer on Marriage, Relationships, Sex, Lies & Love](https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_james_sexton.mp3)
+
+Optimal Finance Daily: Money Management & Financial Independence: [Motivation and Money by Honey Smith of Get Rich Slowly on Self-Awareness and Finances](https://chrt.fm/track/G52973/traffic.megaphone.fm/OLD1859299240.mp3?updated=1695055694)
+
+IRL: Online Life is Real Life: [We’re Back! IRL Season 7: People Over Profit](https://cdn.simplecast.com/audio/9b52b824-909f-4be5-aaf0-10f9e93c7818/episodes/41c243fa-78eb-4580-a33c-826e74ff3e40/audio/a6355dbb-4085-4c91-9b21-641facd43d61/default_tc.mp3?aid=rss_feed&feed=lP7owBq8)
+
+IRL: Online Life is Real Life: [The AI Medicine Cabinet](https://cdn.simplecast.com/audio/9b52b824-909f-4be5-aaf0-10f9e93c7818/episodes/cab8b72a-383d-4843-a0bc-7172729eb7ce/audio/3df09b0a-7c8e-40b2-b2a9-bac320d799e3/default_tc.mp3?aid=rss_feed&feed=lP7owBq8)
+
 Planet Money: ["Based on a true story"](https://play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7608670799.mp3?d=1735&size=27771342&e=1197954107&t=podcast&p=510289)
-
-The Knowledge Project with Shane Parrish: [#127 Best of 2021: Conversations of the Year](https://traffic.libsyn.com/secure/theknowledgeproject/Episode_127_-_Best_of_2021.mp3?dest-id=271299)
-
-3 Things: [The Catch Up: 25 September](https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/56924236/catch_up_2023_25th_september_v1.mp3)
-
-Finshots Daily: [The impact of long notice periods](https://anchor.fm/s/37a76020/podcast/play/76368895/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-25%2F6f108935-585e-edc7-f1fa-bd772b3d3b99.mp3)
-
-Capitalmind Podcast: [How to invest a lumpsum amount?](https://traffic.libsyn.com/secure/capitalmind/CM_Podcast_EP_68_0816.mp3?dest-id=1084508)
 
 
 <!-- PODCAST-LIST:END -->
