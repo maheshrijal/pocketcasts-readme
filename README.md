@@ -18,15 +18,15 @@ Add a comment to your README.md like this:
 # # Recently Listened Podcasts
 
 <!-- PODCAST-LIST:START -->
+The Knowledge Project with Shane Parrish: [#174 Rey Flemings: A Different Definition of Success](https://traffic.libsyn.com/secure/theknowledgeproject/174_Rey_Flemings.mp3?dest-id=271299)
+
 Lex Fridman Podcast: [#396 – James Sexton: Divorce Lawyer on Marriage, Relationships, Sex, Lies & Love](https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_james_sexton.mp3)
 
-Optimal Finance Daily: Money Management & Financial Independence: [Motivation and Money by Honey Smith of Get Rich Slowly on Self-Awareness and Finances](https://chrt.fm/track/G52973/traffic.megaphone.fm/OLD1859299240.mp3?updated=1695055694)
+The Changelog: Software Development, Open Source: [Efficient Linux at the CLI](https://op3.dev/e/https://cdn.changelog.com/uploads/podcast/547/the-changelog-547.mp3)
 
-IRL: Online Life is Real Life: [We’re Back! IRL Season 7: People Over Profit](https://cdn.simplecast.com/audio/9b52b824-909f-4be5-aaf0-10f9e93c7818/episodes/41c243fa-78eb-4580-a33c-826e74ff3e40/audio/a6355dbb-4085-4c91-9b21-641facd43d61/default_tc.mp3?aid=rss_feed&feed=lP7owBq8)
+3 Things: [The Catch Up: 29 September](https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/56992111/catch_up_2023_29th_september_v1.mp3)
 
-IRL: Online Life is Real Life: [The AI Medicine Cabinet](https://cdn.simplecast.com/audio/9b52b824-909f-4be5-aaf0-10f9e93c7818/episodes/cab8b72a-383d-4843-a0bc-7172729eb7ce/audio/3df09b0a-7c8e-40b2-b2a9-bac320d799e3/default_tc.mp3?aid=rss_feed&feed=lP7owBq8)
-
-Planet Money: ["Based on a true story"](https://play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7608670799.mp3?d=1735&size=27771342&e=1197954107&t=podcast&p=510289)
+The Changelog: Software Development, Open Source: [The missing sync layer for modern apps](https://op3.dev/e/https://cdn.changelog.com/uploads/news/63/changelog-news-63.mp3)
 
 
 <!-- PODCAST-LIST:END -->
