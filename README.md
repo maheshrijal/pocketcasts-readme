@@ -20,13 +20,13 @@ Add a comment to your README.md like this:
 <!-- PODCAST-LIST:START -->
 The Knowledge Project with Shane Parrish: [#174 Rey Flemings: A Different Definition of Success](https://traffic.libsyn.com/secure/theknowledgeproject/174_Rey_Flemings.mp3?dest-id=271299)
 
-Lex Fridman Podcast: [#396 – James Sexton: Divorce Lawyer on Marriage, Relationships, Sex, Lies & Love](https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_james_sexton.mp3)
+The Morgan Housel Podcast: [Trying Too Hard](https://www.buzzsprout.com/2144602/13614487-trying-too-hard.mp3)
+
+The Morgan Housel Podcast: [Respect and Admiration](https://www.buzzsprout.com/2144602/13674816-respect-and-admiration.mp3)
+
+Unexplainable: [Is telepathy real?](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP1395226960.mp3?updated=1652823315)
 
 The Changelog: Software Development, Open Source: [Efficient Linux at the CLI](https://op3.dev/e/https://cdn.changelog.com/uploads/podcast/547/the-changelog-547.mp3)
-
-3 Things: [The Catch Up: 29 September](https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/56992111/catch_up_2023_29th_september_v1.mp3)
-
-The Changelog: Software Development, Open Source: [The missing sync layer for modern apps](https://op3.dev/e/https://cdn.changelog.com/uploads/news/63/changelog-news-63.mp3)
 
 
 <!-- PODCAST-LIST:END -->
