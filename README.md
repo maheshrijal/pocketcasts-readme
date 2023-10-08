@@ -18,15 +18,15 @@ Add a comment to your README.md like this:
 # # Recently Listened Podcasts
 
 <!-- PODCAST-LIST:START -->
-The Knowledge Project with Shane Parrish: [#174 Rey Flemings: A Different Definition of Success](https://traffic.libsyn.com/secure/theknowledgeproject/174_Rey_Flemings.mp3?dest-id=271299)
+The Knowledge Project with Shane Parrish: [#72 Neil Pasricha: Happy Habits](https://traffic.libsyn.com/secure/theknowledgeproject/KP20Ep2007220Neil20Pasricha20Audio20Master20Rev1.mp3?dest-id=271299)
 
-Darknet Diaries: [The Mimics of Punjab](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/G481GD/traffic.megaphone.fm/ADV7639639710.mp3?updated=1696273602)
+Lex Fridman Podcast: [#210 – Matt Walker: Sleep](https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_matt_walker.mp3)
 
-Finshots Daily: [Can Kashmir end the English monopoly?](https://anchor.fm/s/37a76020/podcast/play/76732417/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-3%2F13920c3d-4d1c-13d4-ad31-ea85997268b4.mp3)
+Murder in Apartment 12: [Introducing: Murder in Apartment 12](https://chrt.fm/track/6D589D/dts.podtrac.com/redirect.mp3/nbcnews.simplecastaudio.com/079d7701-3b3e-4e63-8bad-98cf272a9638/episodes/9e48db29-30bf-410a-a780-8f62a7797c19/audio/128/default.mp3?aid=rss_feed&awCollectionId=079d7701-3b3e-4e63-8bad-98cf272a9638&awEpisodeId=9e48db29-30bf-410a-a780-8f62a7797c19&feed=RPWEjhKq)
 
-Finshots Daily: [An Apple Search Engine?](https://anchor.fm/s/37a76020/podcast/play/76783803/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-4%2F07530a1f-422e-4192-aa13-696ebc272e93.mp3)
+Three Minute Masters: [Robin Adams on Game Changing Automation](https://sphinx.acast.com/p/open/s/6411efc6467ff50011b81aa3/e/642ab06013df9d0011c5a402/media.mp3)
 
-Lex Fridman Podcast: [#264 – Tim Urban: Elon Musk, Neuralink, AI, Aliens, and the Future of Humanity](https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_tim_urban.mp3)
+The Morgan Housel Podcast: [Death, Taxes, and a Few Other Things](https://www.buzzsprout.com/2144602/13731114-death-taxes-and-a-few-other-things.mp3)
 
 
 <!-- PODCAST-LIST:END -->
