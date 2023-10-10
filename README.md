@@ -18,15 +18,15 @@ Add a comment to your README.md like this:
 # # Recently Listened Podcasts
 
 <!-- PODCAST-LIST:START -->
+Huberman Lab: [Chris Voss: How to Succeed at Hard Conversations](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/3F7F74/traffic.megaphone.fm/SCIM5142864264.mp3?updated=1696225071)
+
 The Knowledge Project with Shane Parrish: [#72 Neil Pasricha: Happy Habits](https://traffic.libsyn.com/secure/theknowledgeproject/KP20Ep2007220Neil20Pasricha20Audio20Master20Rev1.mp3?dest-id=271299)
+
+Finshots Daily: [The tussle between bankrupt airlines and lessors is over. Almost.](https://anchor.fm/s/37a76020/podcast/play/76831914/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-5%2F349918729-44100-2-83cd7a7bdbed6.m4a)
 
 Lex Fridman Podcast: [#210 – Matt Walker: Sleep](https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_matt_walker.mp3)
 
 Murder in Apartment 12: [Introducing: Murder in Apartment 12](https://chrt.fm/track/6D589D/dts.podtrac.com/redirect.mp3/nbcnews.simplecastaudio.com/079d7701-3b3e-4e63-8bad-98cf272a9638/episodes/9e48db29-30bf-410a-a780-8f62a7797c19/audio/128/default.mp3?aid=rss_feed&awCollectionId=079d7701-3b3e-4e63-8bad-98cf272a9638&awEpisodeId=9e48db29-30bf-410a-a780-8f62a7797c19&feed=RPWEjhKq)
-
-Three Minute Masters: [Robin Adams on Game Changing Automation](https://sphinx.acast.com/p/open/s/6411efc6467ff50011b81aa3/e/642ab06013df9d0011c5a402/media.mp3)
-
-The Morgan Housel Podcast: [Death, Taxes, and a Few Other Things](https://www.buzzsprout.com/2144602/13731114-death-taxes-and-a-few-other-things.mp3)
 
 
 <!-- PODCAST-LIST:END -->
