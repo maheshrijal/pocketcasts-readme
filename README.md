@@ -20,13 +20,13 @@ Add a comment to your README.md like this:
 <!-- PODCAST-LIST:START -->
 Huberman Lab: [Chris Voss: How to Succeed at Hard Conversations](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/3F7F74/traffic.megaphone.fm/SCIM5142864264.mp3?updated=1696225071)
 
-Finshots Daily: [Can a tax solve Bengaluru’s traffic woes?](https://anchor.fm/s/37a76020/podcast/play/76939995/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-8%2Fa5faa02d-35e3-8ac0-126c-bc4fef90c00d.mp3)
+Finshots Daily: [Why Claudia Goldin won the Nobel Prize in Economics](https://anchor.fm/s/37a76020/podcast/play/77036575/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-10%2F5b21d286-c96a-0ce9-0056-4dfa8773ff2a.mp3)
 
-The Knowledge Project with Shane Parrish: [#72 Neil Pasricha: Happy Habits](https://traffic.libsyn.com/secure/theknowledgeproject/KP20Ep2007220Neil20Pasricha20Audio20Master20Rev1.mp3?dest-id=271299)
+Finshots Daily: [Is Airbnb broken?](https://anchor.fm/s/37a76020/podcast/play/76989548/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-9%2F347cf6e5-9037-5764-3bef-898d56ddf988.mp3)
 
-Finshots Daily: [The tussle between bankrupt airlines and lessors is over. Almost.](https://anchor.fm/s/37a76020/podcast/play/76831914/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-5%2F349918729-44100-2-83cd7a7bdbed6.m4a)
+The Knowledge Project with Shane Parrish: [#167 Dr. Gina Poe: The Science of Better Sleep](https://traffic.libsyn.com/secure/theknowledgeproject/167_Gina_Poe.mp3?dest-id=271299)
 
-Lex Fridman Podcast: [#210 – Matt Walker: Sleep](https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_matt_walker.mp3)
+The Knowledge Project with Shane Parrish: [#174 Rey Flemings: A Different Definition of Success](https://traffic.libsyn.com/secure/theknowledgeproject/174_Rey_Flemings.mp3?dest-id=271299)
 
 
 <!-- PODCAST-LIST:END -->
