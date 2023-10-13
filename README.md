@@ -18,15 +18,15 @@ Add a comment to your README.md like this:
 # # Recently Listened Podcasts
 
 <!-- PODCAST-LIST:START -->
+Capitalmind Podcast: [Should you invest in a PMS?](https://traffic.libsyn.com/secure/capitalmind/CM_EP_69_1010.mp3?dest-id=1084508)
+
+Finshots Daily: [An explainer on the Israel-Palestine conflict](https://anchor.fm/s/37a76020/podcast/play/77105023/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-12%2Ffa5d708c-4269-1e38-7ad0-c87c396e13fe.mp3)
+
+IRL: Online Life is Real Life: [With AIs Wide Open](https://cdn.simplecast.com/audio/9b52b824-909f-4be5-aaf0-10f9e93c7818/episodes/6560d8e5-be30-4bd4-bba7-ae6624c03106/audio/a21fd4d1-18c1-431c-b092-e67cb1fdec66/default_tc.mp3?aid=rss_feed&feed=lP7owBq8)
+
 Huberman Lab: [Chris Voss: How to Succeed at Hard Conversations](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/3F7F74/traffic.megaphone.fm/SCIM5142864264.mp3?updated=1696225071)
 
 Finshots Daily: [Why Claudia Goldin won the Nobel Prize in Economics](https://anchor.fm/s/37a76020/podcast/play/77036575/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-10%2F5b21d286-c96a-0ce9-0056-4dfa8773ff2a.mp3)
-
-Finshots Daily: [Is Airbnb broken?](https://anchor.fm/s/37a76020/podcast/play/76989548/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-9%2F347cf6e5-9037-5764-3bef-898d56ddf988.mp3)
-
-The Knowledge Project with Shane Parrish: [#167 Dr. Gina Poe: The Science of Better Sleep](https://traffic.libsyn.com/secure/theknowledgeproject/167_Gina_Poe.mp3?dest-id=271299)
-
-The Knowledge Project with Shane Parrish: [#174 Rey Flemings: A Different Definition of Success](https://traffic.libsyn.com/secure/theknowledgeproject/174_Rey_Flemings.mp3?dest-id=271299)
 
 
 <!-- PODCAST-LIST:END -->
