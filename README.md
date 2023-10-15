@@ -18,15 +18,15 @@ Add a comment to your README.md like this:
 # # Recently Listened Podcasts
 
 <!-- PODCAST-LIST:START -->
+The Morgan Housel Podcast: [A Few Laws of Getting Rich](https://www.buzzsprout.com/2144602/13767885-a-few-laws-of-getting-rich.mp3)
+
+Finshots Daily: [Vedanta takes a U-Turn](https://anchor.fm/s/37a76020/podcast/play/77182281/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-13%2Fe9589da3-17e8-512e-976d-0d854dd9591b.mp3)
+
 Capitalmind Podcast: [Should you invest in a PMS?](https://traffic.libsyn.com/secure/capitalmind/CM_EP_69_1010.mp3?dest-id=1084508)
 
 Finshots Daily: [What ails LIC?](https://anchor.fm/s/37a76020/podcast/play/77134228/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-12%2Fef6fa64f-6437-3049-8a2a-83d73011b761.mp3)
 
 Finshots Daily: [An explainer on the Israel-Palestine conflict](https://anchor.fm/s/37a76020/podcast/play/77105023/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-12%2Ffa5d708c-4269-1e38-7ad0-c87c396e13fe.mp3)
-
-IRL: Online Life is Real Life: [With AIs Wide Open](https://cdn.simplecast.com/audio/9b52b824-909f-4be5-aaf0-10f9e93c7818/episodes/6560d8e5-be30-4bd4-bba7-ae6624c03106/audio/a21fd4d1-18c1-431c-b092-e67cb1fdec66/default_tc.mp3?aid=rss_feed&feed=lP7owBq8)
-
-Huberman Lab: [Chris Voss: How to Succeed at Hard Conversations](https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/3F7F74/traffic.megaphone.fm/SCIM5142864264.mp3?updated=1696225071)
 
 
 <!-- PODCAST-LIST:END -->
